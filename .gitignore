@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+.idea/
+
+# PowerShell / test output
+TestResults/
+*.trx
+*.clixml
+
+# Local lab artifacts and logs
+*.log
+*.wim
+*.vhd
+*.vhdx
+*.iso
+lab-output/
+
+# Release archives
+*.zip
+*.tar.gz
